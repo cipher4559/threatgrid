@@ -52,8 +52,7 @@ VM.
 
 **Deployment link: coming soon.**
 
-This public repository is the project overview. The source repository is
-private.
+This public repository is the project overview. 
 
 ## Status
 
